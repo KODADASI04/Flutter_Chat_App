@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "302397930802",
+    "project_id": "flutter-lovers-323ec",
+    "storage_bucket": "flutter-lovers-323ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302397930802:android:cebea07da1745e7f336b2b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_canli_sohbet_uygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302397930802-34h3io7df828oiln6v2jv3l2u1fqetad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_canli_sohbet_uygulamasi",
+            "certificate_hash": "979e9fa8d2a215f0b7e4f4e522813865cd91397b"
+          }
+        },
+        {
+          "client_id": "302397930802-5f41ch8qo9o6v5v2dasagaaijhhvau8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_canli_sohbet_uygulamasi",
+            "certificate_hash": "26ceda6b282b2365f0d11d5bd3ef34f75452e3c5"
+          }
+        },
+        {
+          "client_id": "302397930802-a5qknqaaopemt8dt73lk7vtfr6t7nasb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Du2_3FTD31MrAXe8FqLipz7DhGYRm1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302397930802-68dbju0nh330r87gm8u7t1d8vbpu00fl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302397930802-l4vr062indvb6la02vk5s1m8gt1h0cca.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterCanliSohbetUygulamasi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

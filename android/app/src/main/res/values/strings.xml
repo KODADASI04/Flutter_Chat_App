@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flutter Lovers</string>
+    <string name="facebook_app_id">725069122445268</string>
+    <string name="fb_login_protocol_scheme">fb725069122445268</string>
+    <string name="facebook_client_token">a8e1b66a13a3c3d3f8d14677f20965c0</string>
+    <string name="default_notification_channel_id">varsayilan</string>
+
+</resources>
